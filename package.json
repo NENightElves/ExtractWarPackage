@@ -4,6 +4,11 @@
 	"description": "Extract Java war package to the current path",
 	"version": "1.0.0",
 	"publisher": "NENightElves",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/NENightElves/ExtractWarPackage"
+	},
+	"license": "GPL-3.0",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
