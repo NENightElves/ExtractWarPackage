@@ -3,6 +3,7 @@
 	"displayName": "ExtractWarPackage",
 	"description": "Extract Java war package to the current path",
 	"version": "1.0.0",
+	"publisher": "NENightElves",
 	"engines": {
 		"vscode": "^1.30.0"
 	},
