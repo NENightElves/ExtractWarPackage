@@ -1,6 +1,6 @@
 # ExtractWarPackage README
 
-This is the README for your extension "extractwarpackage".
+Extract Java War package to the current path.
 
 ## Features
 
