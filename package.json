@@ -3,7 +3,7 @@
 	"displayName": "ExtractWarPackage",
 	"description": "Extract Java war package to the current path",
 	"version": "1.0.0",
-	"publisher": "NENightElves",
+	"publisher": "nenightelves",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/NENightElves/ExtractWarPackage"
